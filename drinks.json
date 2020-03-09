@@ -1,0 +1,1148 @@
+{
+    "smoothies": [
+        {
+            "name": "mangold-smoothie",
+            "page": 10,
+            "ingredients": [
+                "mangold",
+                "brenessel",
+                "ananas",
+                "limette",
+                "agavendicksaft"
+            ]
+        },
+        {
+            "name": "feldsaft-orangen-smoothie",
+            "page": 10,
+            "ingredients": [
+                "hanfsamen",
+                "feldsalat",
+                "orange",
+                "avocado"
+            ]
+        },
+        {
+            "name": "birnen-soja-smoothie",
+            "page": 11,
+            "ingredients": [
+                "wildkräuter",
+                "birne",
+                "limette",
+                "gurke",
+                "sojadrink"
+            ]
+        },
+        {
+            "name": "brunnenkresse-smoothie",
+            "page": 11,
+            "ingredients": [
+                "haselnuss",
+                "chillipulver",
+                "brunnenkresse",
+                "romana-salat",
+                "basilikum",
+                "zitrone",
+                "fenchelknolle",
+                "pfeffer"
+            ]
+        },
+        {
+            "name": "grüner-smoothie",
+            "page": 12,
+            "ingredients": [
+                "banane",
+                "birne",
+                "spinat",
+                "löwenzahn",
+                "rucola"
+            ]
+        },
+        {
+            "name": "apfel-romana-smoothie",
+            "page": 12,
+            "ingredients": [
+                "romana-salat",
+                "petersilie",
+                "apfel",
+                "banane",
+                "zitonensaft"
+            ]
+        },
+        {
+            "name": "trauben-smoothie",
+            "page": 13,
+            "ingredients": [
+                "mangold",
+                "banane",
+                "traube",
+                "orange"
+            ]
+        },
+        {
+            "name": "wildkräuter-smoothie",
+            "page": 13,
+            "ingredients": [
+                "sauerampfer",
+                "wegerich",
+                "brennnessel",
+                "erdbeere",
+                "feldsalat",
+                "brine",
+                "mango",
+                "apfelsaft"
+            ]
+        },
+        {
+            "name": "möhrengrün-mango-smoothie",
+            "page": 14,
+            "ingredients": [
+                "möhre",
+                "portulak",
+                "mango",
+                "banane",
+                "kiwi",
+                "chlorella-pulver",
+                "kokoswasser"
+            ]
+        },
+        {
+            "name": "staudensellerie-birnen-smoothie",
+            "page": 14,
+            "ingredients": [
+                "staudensellerie",
+                "minze",
+                "brine",
+                "kiwi",
+                "banane"
+            ]
+        },
+        {
+            "name": "petersilie-aprikosen-smoothie",
+            "page": 15,
+            "ingredients": [
+                "romana-salat",
+                "petersilie",
+                "babysalat",
+                "chia-samen",
+                "aprikose",
+                "orange"
+            ]
+        },
+        {
+            "name": "tatsoi-gurken-smoothie",
+            "page": 15,
+            "ingredients": [
+                "chia-samen",
+                "gurke",
+                "kiwi",
+                "tatsoi",
+                "apfel",
+                "kokoswasser"
+            ]
+        },
+        {
+            "name": "matcha-kiwi-apfel-smoothie",
+            "page": 16,
+            "ingredients": [
+                "matcha-pulver",
+                "babyspinat",
+                "limette",
+                "kokoswasser",
+                "kiwi",
+                "apfel",
+                "banane",
+                "mineralwasser"
+            ]
+        },
+        {
+            "name": "portulak-orangen-smoothie",
+            "page": 16,
+            "ingredients": [
+                "sesamsaat",
+                "portulak",
+                "ananas",
+                "birne",
+                "avocado",
+                "orange"
+            ]
+        },
+        {
+            "name": "brokoli-smoothie",
+            "page": 17,
+            "ingredients": [
+                "brokoli",
+                "zuckermelone",
+                "löwenzahnpulver",
+                "minze",
+                "banane",
+                "apfel",
+                "zitronensaft",
+                "agavendicksaft"
+            ]
+        },
+        {
+            "name": "löwenzahn-wildkräuter-smoothie",
+            "page": 17,
+            "ingredients": [
+                "chia-samen",
+                "löwenzahn",
+                "wildkräuter",
+                "kiwi",
+                "mango",
+                "ingwer",
+                "mineralwasser"
+            ]
+        },
+        {
+            "name": "grünkohl-dattel-smoothie",
+            "page": 18,
+            "ingredients": [
+                "grünkohlblatt",
+                "dattel",
+                "banane",
+                "birne",
+                "limette"
+            ]
+        },
+        {
+            "name": "babyspinat-smoothie",
+            "page": 18,
+            "ingredients": [
+                "baby-spinat",
+                "pfefferminze",
+                "nektarine",
+                "kiwi",
+                "apfel"
+            ]
+        },
+        {
+            "name": "rote-beete-smoothie",
+            "page": 19,
+            "ingredients": [
+                "rote beete",
+                "grüne traube",
+                "mango",
+                "avocado",
+                "zitrone"
+            ]
+        },
+        {
+            "name": "brinen-smoothie",
+            "page": 19,
+            "ingredients": [
+                "möhrengrün",
+                "fenchelgrün",
+                "birne",
+                "dattel",
+                "gelbe pflaume"
+            ]
+        },
+        {
+            "name": "wildkräuter-smoothie",
+            "page": 20,
+            "ingredients": [
+                "löwenzahnblätter",
+                "brennesselblätter",
+                "malvenblätter",
+                "apfelblätter",
+                "krichbaumblätter",
+                "petersilienblätter",
+                "pfirsisch",
+                "orange",
+                "banane"
+            ]
+        },
+        {
+            "name": "kohlrabi-smoothie",
+            "page": 21,
+            "ingredients": [
+                "kohlrabiblätter",
+                "staudensellerie",
+                "chillischote",
+                "tomate",
+                "zitrone",
+                "apfel"
+            ]
+        },
+        {
+            "name": "wirsing-ananas-smoothie",
+            "page": 21,
+            "ingredients": [
+                "wirsing",
+                "walnuss",
+                "ananas",
+                "banane"
+            ]
+        },
+        {
+            "name": "gurken-minze-smoothie",
+            "page": 22,
+            "ingredients": [
+                "gurke",
+                "minze",
+                "weizengraspulver",
+                "zitrone",
+                "banane",
+                "kokoswasser"
+            ]
+        },
+        {
+            "name": "spinat-ananas-smoothie",
+            "page": 22,
+            "ingredients": [
+                "hanfsamen",
+                "getrocknete aprikose",
+                "babyspinat",
+                "minze",
+                "ananas"
+            ]
+        },
+        {
+            "name": "grünkohl-smoothie",
+            "page": 23,
+            "ingredients": [
+                "grünkohl",
+                "feldsalat",
+                "banane",
+                "limette",
+                "birne",
+                "orange"
+            ]
+        },
+        {
+            "name": "schwarzkohl-apfel-smoothie",
+            "page": 23,
+            "ingredients": [
+                "sesam",
+                "datteln",
+                "ingwer",
+                "schwarzkohl",
+                "mandarine",
+                "apfel",
+                "limette",
+                "zimt"
+            ]
+        },
+        {
+            "name": "rucola-smoothie",
+            "page": 24,
+            "ingredients": [
+                "goji beere",
+                "rucola",
+                "petersilie",
+                "avocado",
+                "zitrone",
+                "pflaumen"
+            ]
+        },
+        {
+            "name": "rote-beete-blätter-papaya-smoothie",
+            "page": 24,
+            "ingredients": [
+                "lenisamen",
+                "rote beete blätter",
+                "babyspinat",
+                "grapefruit",
+                "zitrone",
+                "papaya"
+            ]
+        },
+        {
+            "name": "apfel-spinat-smoothie",
+            "page": 25,
+            "ingredients": [
+                "chashwekerne",
+                "babyspinat",
+                "apfel",
+                "orange",
+                "banane"
+            ]
+        },
+        {
+            "name": "grünkohl-limetten-smoothie",
+            "page": 25,
+            "ingredients": [
+                "grünkohl",
+                "minze",
+                "limette",
+                "birne",
+                "kokoswasser"
+            ]
+        },
+        {
+            "name": "mango-orangen-smoothie",
+            "page": 26,
+            "ingredients": [
+                "mango",
+                "orangensaft"
+            ]
+        },
+        {
+            "name": "maracuja-smoothie",
+            "page": 26,
+            "ingredients": [
+                "staudensellerie",
+                "orange",
+                "mango"
+            ]
+        },
+        {
+            "name": "himbeer-smoothie",
+            "page": 26,
+            "ingredients": [
+                "himbeere",
+                "banane"
+            ]
+        },
+        {
+            "name": "ananas-erdbeer-smoothie",
+            "page": 27,
+            "ingredients": [
+                "ananas",
+                "erdbeere",
+                "banane"
+            ]
+        },
+        {
+            "name": "mango-ingwer-smoothie",
+            "page": 27,
+            "ingredients": [
+                "ingwer",
+                "mango",
+                "kiwi",
+                "orange",
+                "limette"
+            ]
+        },
+        {
+            "name": "mango-papaya-smoothie",
+            "page": 27,
+            "ingredients": [
+                "ananassaft",
+                "mango",
+                "papaya",
+                "banane",
+                "erdbeere"
+            ]
+        },
+        {
+            "name": "kirsch-smoothie",
+            "page": 28,
+            "ingredients": [
+                "kirsche",
+                "kokussirup",
+                "limette"
+            ]
+        },
+        {
+            "name": "apfel-smoothie",
+            "page": 28,
+            "ingredients": [
+                "apfel",
+                "möhre",
+                "ahornsirup",
+                "zitronensaft",
+                "apfelsaft"
+            ]
+        },
+        {
+            "name": "orangen-ananas-smoothie",
+            "page": 28,
+            "ingredients": [
+                "banane",
+                "ingwer",
+                "orangensaft",
+                "ananassaft"
+            ]
+        },
+        {
+            "name": "rhabarber-smoothie",
+            "page": 29,
+            "ingredients": [
+                "rhabarber",
+                "apfelsaft",
+                "apfel",
+                "banane",
+                "erbeere",
+                "ahornsirup"
+            ]
+        },
+        {
+            "name": "cranberry-smoothie",
+            "page": 29,
+            "ingredients": [
+                "apfel",
+                "weintraube",
+                "cranberrie"
+            ]
+        },
+        {
+            "name": "melonen-smoothie",
+            "page": 29,
+            "ingredients": [
+                "wassermelone",
+                "cantraloupe",
+                "honigmelone",
+                "ananas",
+                "mango",
+                "erdbeere",
+                "ahornsirup",
+                "orangensaft"
+            ]
+        },
+        {
+            "name": "banane-ananas-smoothie",
+            "page": 30,
+            "ingredients": [
+                "ingwer",
+                "banane",
+                "orangensaft",
+                "ananassaft",
+                "kokussirup"
+            ]
+        },
+        {
+            "name": "tomaten-smoothie",
+            "page": 30,
+            "ingredients": [
+                "tomate",
+                "rote paprika",
+                "rocula",
+                "basilikumpesto",
+                "tomatensaft",
+                "salz",
+                "pfeffer",
+                "tabasco"
+            ]
+        },
+        {
+            "name": "paprika-smoothie",
+            "page": 30,
+            "ingredients": [
+                "schlangengurke",
+                "rote-paprika",
+                "frühlingszwiebel",
+                "tomatensaft",
+                "zitronensaft",
+                "worcestershire-sauce",
+                "salz",
+                "pfeffer",
+                "tabasco"
+            ]
+        },
+        {
+            "name": "fruchtsmoothie",
+            "page": 31,
+            "ingredients": [
+                "orange",
+                "banane",
+                "beeren"
+            ]
+        },
+        {
+            "name": "rhabarber-erdbeer-smoothie",
+            "page": 31,
+            "ingredients": [
+                "erdbeere",
+                "rhabarber",
+                "beeren"
+            ]
+        },
+        {
+            "name": "möhren-smoothie",
+            "page": 31,
+            "ingredients": [
+                "möhren",
+                "grapefruit",
+                "orange",
+                "banane",
+                "zitronensaft",
+                "limettensat"
+            ]
+        },
+        {
+            "name": "wassermelonen-smoothie",
+            "page": 32,
+            "ingredients": [
+                "limette",
+                "brauner zucker",
+                "wassermelone",
+                "zitronenmelisse"
+            ]
+        },
+        {
+            "name": "kaki-smoothie",
+            "page": 32,
+            "ingredients": [
+                "kaki",
+                "brine",
+                "grapefruitsaft"
+            ]
+        },
+        {
+            "name": "papaya-smoothie",
+            "page": 32,
+            "ingredients": [
+                "papaya",
+                "banane",
+                "guavensaft",
+                "limette"
+            ]
+        },
+        {
+            "name": "mango-smoothie",
+            "page": 33,
+            "ingredients": [
+                "limette",
+                "mango"
+            ]
+        },
+        {
+            "name": "aprikose-smoothie",
+            "page": 33,
+            "ingredients": [
+                "aprikose",
+                "birne",
+                "banane",
+                "aprikosensaft"
+            ]
+        },
+        {
+            "name": "birnen-smoothie",
+            "page": 33,
+            "ingredients": [
+                "zitrone",
+                "banane"
+            ]
+        },
+        {
+            "name": "ananas-kokos-smoothie",
+            "page": 34,
+            "ingredients": [
+                "ananas",
+                "kokusnussfleisch",
+                "goji-beere",
+                "kokuswasser"
+            ]
+        },
+        {
+            "name": "granatapfel-himbeers-smoothie",
+            "page": 34,
+            "ingredients": [
+                "himbeere",
+                "granatapfel",
+                "banane",
+                "birne"
+            ]
+        },
+        {
+            "name": "pflaumen-haselnuss-smoothie",
+            "page": 35,
+            "ingredients": [
+                "haselnuss",
+                "kakaobohnensplitter",
+                "goji-beere",
+                "brombeere",
+                "blaue pflaume",
+                "zimt"
+            ]
+        },
+        {
+            "name": "mango-minze-smoothie",
+            "page": 35,
+            "ingredients": [
+                "mango",
+                "erdbeere",
+                "minze",
+                "grapefruit",
+                "orange"
+            ]
+        },
+        {
+            "name": "blaubeer-smoothie",
+            "page": 36,
+            "ingredients": [
+                "leinsamen",
+                "sedentofu",
+                "blaubeere",
+                "banane",
+                "sojamilch",
+                "haselnussmus"
+            ]
+        },
+        {
+            "name": "granatapfel-orangen-smoothie",
+            "page": 36,
+            "ingredients": [
+                "chia-samen",
+                "datteln",
+                "himbeeren",
+                "granatapfel",
+                "orange",
+                "kokuswasser"
+            ]
+        },
+        {
+            "name": "maulbeeren-melonen-smoothie",
+            "page": 37,
+            "ingredients": [
+                "cashewkerne",
+                "leinsamen",
+                "wassermelone",
+                "maulbeeren"
+            ]
+        },
+        {
+            "name": "pfirsisch-avocado-smoothie",
+            "page": 37,
+            "ingredients": [
+                "pfirsich",
+                "avocado",
+                "limette",
+                "chia-samen",
+                "kokuswasser"
+            ]
+        },
+        {
+            "name": "green-velwet-smoothie",
+            "page": 38,
+            "ingredients": [
+                "baby-spinat",
+                "apfel",
+                "kiwi",
+                "banane",
+                "goji-beere",
+                "limettensaft",
+                "agavendicksaft"
+            ]
+        },
+        {
+            "name": "orangen-rote-beete-smoothie",
+            "page": 38,
+            "ingredients": [
+                "orange",
+                "rote-beete",
+                "ingewer",
+                "banane",
+                "maqui pulver"
+            ]
+        },
+        {
+            "name": "beeren-orangen-smoothie",
+            "page": 39,
+            "ingredients": [
+                "sesamsaat",
+                "getrocknete aronja beeren",
+                "dattel",
+                "beeren",
+                "orange"
+            ]
+        },
+        {
+            "name": "sandorn-aprikosensmoothie",
+            "page": 39,
+            "ingredients": [
+                "banane",
+                "hanf-samen",
+                "sesampaste",
+                "reismilch",
+                "aprikose",
+                "sandornsaft"
+            ]
+        },
+        {
+            "name": "himbeer-avcado-smoothie",
+            "page": 40,
+            "ingredients": [
+                "himbeeren",
+                "aronja beere",
+                "birne",
+                "apfel",
+                "avocado"
+            ]
+        },
+        {
+            "name": "cranberry-zimt-smoothie",
+            "page": 40,
+            "ingredients": [
+                "cashewkerne",
+                "honigmelone",
+                "zimt",
+                "cranberry"
+            ]
+        },
+        {
+            "name": "macadamie-brombeer-smoothie",
+            "page": 41,
+            "ingredients": [
+                "marcadamienuss",
+                "hanfsamen",
+                "bombeere",
+                "banane",
+                "orange"
+            ]
+        },
+        {
+            "name": "goji-feigen-smoothie",
+            "page": 41,
+            "ingredients": [
+                "mandeln",
+                "banane",
+                "getrocknete goji birne",
+                "feige",
+                "birne"
+            ]
+        },
+        {
+            "name": "holunderbeeren-kirsch-smoothie",
+            "page": 42,
+            "ingredients": [
+                "krische",
+                "banane",
+                "macuipulver",
+                "birne"
+            ]
+        },
+        {
+            "name": "goji-pfirsich-smoothie",
+            "page": 43,
+            "ingredients": [
+                "kokuswasser",
+                "gerocknete goji beere",
+                "kokusnussfliesch",
+                "pfirsich",
+                "limette",
+                "minze"
+            ]
+        },
+        {
+            "name": "sandorn-ananas-smoothie",
+            "page": 44,
+            "ingredients": [
+                "hanfsamen",
+                "ananas",
+                "sandornsaft",
+                "birne"
+            ]
+        },
+        {
+            "name": "maulbeere-kirsch-smoothie",
+            "page": 44,
+            "ingredients": [
+                "getrocknete maulbeere",
+                "banane",
+                "krirsche"
+            ]
+        },
+        {
+            "name": "blaubeer-aprikosen-smoothie",
+            "page": 45,
+            "ingredients": [
+                "leinsamen",
+                "blaubeere",
+                "maquipulver",
+                "aprikose"
+            ]
+        },
+        {
+            "name": "mango-papaya-smoothie",
+            "page": 45,
+            "ingredients": [
+                "mango",
+                "papaya",
+                "seidentofu",
+                "chiasamen",
+                "limtte",
+                "kokuswasser"
+            ]
+        },
+        {
+            "name": "hanf-smoothie",
+            "page": 46,
+            "ingredients": [
+                "datteln",
+                "blaubeere",
+                "hanfsaaen",
+                "gemahlnene vanille",
+                "zimtpulver"
+            ]
+        },
+        {
+            "name": "pink-starter-smoothie",
+            "page": 46,
+            "ingredients": [
+                "blaubeere",
+                "erdbeere",
+                "minze",
+                "haferflocken",
+                "madelmilch"
+            ]
+        },
+        {
+            "name": "cashew-milch-smoothie",
+            "page": 47,
+            "ingredients": [
+                "chshewkerne",
+                "kokusmus",
+                "pfirsich",
+                "limette",
+                "hagebuttenpulver",
+                "zimt"
+            ]
+        },
+        {
+            "name": "kokusmus-pflumen-smoothie",
+            "page": 47,
+            "ingredients": [
+                "walnuss",
+                "pflaume",
+                "minze",
+                "kokusmus",
+                "kokuswasser",
+                "zitrone"
+            ]
+        },
+        {
+            "name": "apfel-möhren-smoothie",
+            "page": 48,
+            "ingredients": [
+                "grapefruit",
+                "apfel",
+                "möhrensaft",
+                "apfelsaft",
+                "ahornsirup",
+                "haferschmelzflocken",
+                "zimt"
+            ]
+        },
+        {
+            "name": "rote-beete-smoothie",
+            "page": 48,
+            "ingredients": [
+                "rote beete",
+                "joghurt",
+                "sandorn neckter",
+                "orangensaft",
+                "orange"
+            ]
+        },
+        {
+            "name": "beerentraum-smoothie",
+            "page": 48,
+            "ingredients": [
+                "blaubeere",
+                "himbeere",
+                "brombeere",
+                "banane",
+                "joghurt",
+                "haferflocken",
+                "honig",
+                "milch"
+            ]
+        },
+        {
+            "name": "frühstücks-smoothie",
+            "page": 49,
+            "ingredients": [
+                "haferflocken",
+                "haselnusskerne",
+                "leinsamen",
+                "naturjoghurt",
+                "milch",
+                "salz",
+                "beeren"
+            ]
+        },
+        {
+            "name": "erdbeer-kokus-smoothie",
+            "page": 49,
+            "ingredients": [
+                "erdbeeren",
+                "orangen",
+                "limettensaft",
+                "kokusmilch"
+            ]
+        },
+        {
+            "name": "mango-kokus-smoothie",
+            "page": 49,
+            "ingredients": [
+                "mangi",
+                "limette",
+                "tahin",
+                "kokuswasser"
+            ]
+        },
+        {
+            "name": "grapefruit-smoothie",
+            "page": 50,
+            "ingredients": [
+                "erdbeere",
+                "grapefruit",
+                "banane",
+                "joghurt",
+                "haferflocken",
+                "erdbeersirup"
+            ]
+        },
+        {
+            "name": "himbeer-smoothie",
+            "page": 50,
+            "ingredients": [
+                "aprikose",
+                "vanilleschote",
+                "kefir",
+                "himbeere",
+                "milch"
+            ]
+        },
+        {
+            "name": "erdbeer-smoothie",
+            "page": 51,
+            "ingredients": [
+                "erdbeere",
+                "cantaloupemelone",
+                "honigmelone",
+                "joghurt",
+                "milch"
+            ]
+        },
+        {
+            "name": "ananas-smoothie",
+            "page": 51,
+            "ingredients": [
+                "ananas",
+                "buttermilch",
+                "vanillezucker",
+                "honig",
+                "ananassaft",
+                "minze"
+            ]
+        },
+        {
+            "name": "kokusfett-birnen-smoothie",
+            "page": 52,
+            "ingredients": [
+                "mandel",
+                "goji beere",
+                "banane",
+                "zimt",
+                "rohkost kokusöl",
+                "birne"
+            ]
+        },
+        {
+            "name": "hanf-melonen-smoothie",
+            "page": 52,
+            "ingredients": [
+                "hanfsaat",
+                "kakaobohnensplitter",
+                "kokusmus",
+                "galiamelone",
+                "banane"
+            ]
+        },
+        {
+            "name": "eier-kokusnuss-smoothie",
+            "page": 53,
+            "ingredients": [
+                "hanfsaat",
+                "dattel",
+                "eier",
+                "kokusmus",
+                "banane",
+                "apfel"
+            ]
+        },
+        {
+            "name": "nuss-saaten-michung-smoothie",
+            "page": 53,
+            "ingredients": [
+                "haselnüsse",
+                "sonnenblumenkerne",
+                "hanfsamen",
+                "leinsamen",
+                "maulbeeren",
+                "papaya",
+                "zitrone"
+            ]
+        },
+        {
+            "name": "granatapfel-smoothie",
+            "page": 54,
+            "ingredients": [
+                "granatapfel",
+                "blaubeere",
+                "joghurt",
+                "honig",
+                "milch"
+            ]
+        },
+        {
+            "name": "buttermilch-smoothie",
+            "page": 54,
+            "ingredients": [
+                "rote chillischote",
+                "kardamonkapseln",
+                "banne",
+                "buttermilch",
+                "sandornsirup",
+                "phüsales"
+            ]
+        },
+        {
+            "name": "sunshine-smoothie",
+            "page": 54,
+            "ingredients": [
+                "banane",
+                "birne",
+                "weizenflocken",
+                "joghurt",
+                "milch",
+                "sandornnecktar",
+                "erdnussbutter",
+                "orange"
+            ]
+        },
+        {
+            "name": "johannisbeer-smoothie",
+            "page": 55,
+            "ingredients": [
+                "banane",
+                "johannisbeere",
+                "blutorange",
+                "milch",
+                "sojamilch"
+            ]
+        },
+        {
+            "name": "avocado-smoothie",
+            "page": 55,
+            "ingredients": [
+                "avocado",
+                "zitronensaft",
+                "meis",
+                "paprika",
+                "magerquark",
+                "sonnenblumenkerne",
+                "salzsauce",
+                "sojasauce"
+            ]
+        },
+        {
+            "name": "spinat-smoothie",
+            "page": 55,
+            "ingredients": [
+                "blattspinat",
+                "tomate",
+                "joghurt",
+                "thymianblatt",
+                "salz",
+                "pfeffer",
+                "zitronensaft",
+                "zucker",
+                "tomaten"
+            ]
+        }
+    ]
+}

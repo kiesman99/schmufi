@@ -1,0 +1,848 @@
+sorten:
+ - smoothies
+ - smoothie-bowls
+ - saft-milchshakes
+ - detox-wasser
+ - säfte
+ - 'limonaden-und-sommerdrinks'
+smoothies:
+ 'mangold-smoothie':
+  page: 10
+  i:
+   - 'mangold'
+   - 'brenessel'
+   - 'ananas'
+   - 'limette'
+   - 'agavendicksaft'
+ 'feldsaft-orangen-smoothie':
+  page: 10
+  i:
+   - 'hanfsamen'
+   - 'feldsalat'
+   - 'orange'
+   - 'avocado'
+ 'birnen-soja-smoothie':
+  page: 11
+  i:
+   - 'wildkraut'
+   - 'birne'
+   - 'limette'
+   - 'gurke'
+   - 'sojadrink'
+ 'brunnenkresse-smootie'
+  page: 11  
+  i:
+   - 'haselnuss'
+   - 'chillipulver'
+   - 'brunnenkresse'
+   - 'romana-salat'
+   - 'basilikum'
+   - 'zitrone'
+   - 'fenchelknolle'
+   - 'pfeffer'
+ 'grüner-smoothie'
+  page: 12 
+  i: 
+   - 'banane'
+   - 'birne'
+   - 'spinat'
+   - 'löwenzahn'
+   - 'rucola'
+ 'apfel-romana-smoothie' 
+  page: 12 
+  i:
+   - 'romana-salat'
+   - 'petersilie'
+   - 'apfel'
+   - 'banane'
+   - 'zitonensaft'
+ 'trauben-smoothie':
+  page: 13
+  i: 
+   - 'mangold'
+   - 'banane'
+   - 'traube'
+   - 'orange'
+ 'wildkräuter-smootie'
+  page: 13
+  i:
+   - 'sauerampfer'
+   - 'wegerich'
+   - 'brennnessel'
+   - 'erdbeere'
+   - 'feldsalat'
+   - 'brine'
+   - 'mango'
+   - 'apfelsaft'
+ 'möhrengrün-mango-smoothie'
+  page: 14
+  i:
+   - 'möhre'
+   - 'portulak'
+   - 'mango'
+   - 'banane'
+   - 'kiwi'
+   - 'chlorella-pulver'
+   - 'kokoswasser'
+ 'staudensellerie-birnen-smoothie'
+  page: 14
+  i:
+   - 'staudensellerie'
+   - 'minze'
+   - 'brine'
+   - 'kiwi'
+   - 'banane'
+ 'petersilie-aprikosen-smootie'
+  page: 15
+  i: 
+   - 'romana-salat'
+   - 'petersilie'
+   - 'babysalat'
+   - 'chia-samen'
+   - 'aprikosen'
+   - 'orange'
+ 'tatsoi-gurken-smoothie'
+  page: 15
+  i: 
+   - 'chia-samen'
+   - 'gurke'
+   - 'kiwi'
+   - 'tatsoi'
+   - 'apfel'
+   - 'kokoswasser'
+ 'matcha-kiwi-apfel-smoothie'
+  page: 16
+  i: 
+   - 'matcha-pulver'
+   - 'babyspinat'
+   - 'limette'
+   - 'kokoswasser'
+   - 'kiwi'
+   - 'apfel'
+   - 'banane'
+   - 'mineralwasser'
+ 'portulak-orangen-smoothie'
+  page: 16
+  i: 
+   - 'sesamsaat'
+   - 'portulak'
+   - 'ananas'
+   - 'birne'
+   - 'avocado'
+   - 'orange'
+ 'brokoli-smoothie'
+  page: 17
+  i: 
+   - 'brokoli'
+   - 'zuckermelone'
+   - 'löwenzahnpulver'
+   - 'minze'
+   - 'banane'
+   - 'apfel'
+   - 'zitronensaft'
+   - 'agavendicksaft'
+ 'löwenzahn-wildkräuter-smoothie'
+  page: 17
+  i: 
+   - 'chia-samen'
+   - 'löwenzahn'
+   - 'wildräuter'
+   - 'kiwi'
+   - 'mango'
+   - 'ingwer'
+   - 'mineralwasser'
+ 'grünkohl-dattel-smoothie'
+  page: 18
+  i: 
+   - 'grünkohlblatt'
+   - 'dattel'
+   - 'banane'
+   - 'birne'
+   - 'limette'
+ 'babyspinat-smoothie'
+  page: 18
+  i: 
+   - 'baby-spinat'
+   - 'pfefferminze'
+   - 'nektarine'
+   - 'kiwi'
+   - 'apfel'
+ 'rote-beete-smoothie'
+  page: 19
+  i: 
+   - 'rote beete'
+   - 'grüne traube'
+   - 'mango'
+   - 'avocado'
+   - 'zitrone'
+ 'brinen-smoothie'
+  page: 19
+  i: 
+   - 'möhrengrün'
+   - 'fenchelgrün'
+   - 'birne'
+   - 'dattel'
+   - 'gelbe pflaume'
+ 'wildkräuter-smoothie'
+  page: 20
+  i: 
+   - 'löwenzahnblätter'
+   - 'brennesselblätter'
+   - 'malvenblätter'
+   - 'apfelblätter'
+   - 'krichbaumblätter'
+   - 'petersilienblätter'
+   - 'pfirsisch'
+   - 'orange'
+   - 'banane'
+ 'kohlrabi-smoothie'
+  page: 21
+  i: 
+   - 'kohlrabiblätter'
+   - 'staudensellerie'
+   - 'chillischote'
+   - 'tomate'
+   - 'zitrone'
+   - 'apfel'
+ 'wirsing-ananas-smoothie'
+  page: 21
+  i: 
+   - 'wirsing'
+   - 'walnuss'
+   - 'ananas'
+   - 'banane'
+ 'gurken-minze-smoothie'
+  page: 22
+  i: 
+   - 'gurke'
+   - 'minze'
+   - 'weizengraspulver'
+   - 'zitrone'
+   - 'banane'
+   - 'kokoswasser'
+ 'spinat-ananas-smoothie'
+  page: 22
+  i: 
+   - 'hanfsamen'
+   - 'getrocknete aprikose'
+   - 'babyspinat'
+   - 'minze'
+   - 'ananas'
+ 'grünkohl-smoothie'
+  page: 23
+  i: 
+   - 'grünkohl'
+   - 'feldsalat'
+   - 'banane'
+   - 'limette'
+   - 'birne'
+   - 'orange'
+ 'schwarzkohl-apfel-smoothie'
+  page: 23
+  i: 
+   - 'sesam'
+   - 'datteln'
+   - 'ingwer'
+   - 'schwarzkohl'
+   - 'mandarine'
+   - 'apfel'
+   - 'limette'
+   - 'zimt'
+ 'rucola-smoothie'
+  page: 24
+  i: 
+   - 'goji beere'
+   - 'rucola'
+   - 'petersilie'
+   - 'avocado'
+   - 'zitrone'
+   - 'pflaumen'
+ 'rote-beete-blätter-papaya-smoothie'
+  page: 24
+  i:
+   - 'lenisamen'
+   - 'rote beete blätter'
+   - 'babyspinat'
+   - 'grapefruit'
+   - 'zitrone'
+   - 'papaya'
+ 'apfel-spinat-smoothie'
+  page: 25
+  i:
+   - 'chashwekerne'
+   - 'babyspinat'
+   - 'apfel'
+   - 'orange'
+   - 'banane'
+ 'grünkohl-limetten-smoothie'
+  page: 25
+  i:
+   - 'grünkohl'
+   - 'minze'
+   - 'limette'
+   - 'birne'
+   - 'kokoswasser'
+ 'mango-orangen-smoothie'
+  page: 26
+  i:
+   - 'mango'
+   - 'orangensaft'
+ 'maracuja-smoothie'
+  page: 26
+  i:
+   - 'staudensellerie'
+   - 'orange'
+   - 'mango'
+ 'himbeer-smoothie'
+  page: 26
+  i:
+   - 'himbeere'
+   - 'banane'
+ 'ananas-erdbeer-smoothie'
+  page: 27
+  i:
+   - 'ananas'
+   - 'erdbeere'
+   - 'banane'
+ 'mango-ingwer-smoothie'
+  page: 27
+  i:
+   - 'ingwer'
+   - 'mango'
+   - 'kiwi'
+   - 'orange'
+   - 'limette'
+ 'mango-papaya-smoothie'
+  page: 27
+  i:
+   - 'ananassaft'
+   - 'mango'
+   - 'papaya'
+   - 'banane'
+   - 'erdbeere'
+ 'kirsch-smoothie'
+  page: 28
+  i:
+   - 'kirsche'
+   - 'kokussirup'
+   - 'limette'
+ 'apfel-smoothie'
+  page: 28
+  i:
+   - 'apfel'
+   - 'möhre'
+   - 'ahornsirup'
+   - 'zitronensaft'
+   - 'apfelsaft'
+ 'orangen-ananas-smoothie'
+  page: 28
+  i:
+   - 'banane'
+   - 'ingwer'
+   - 'orangensaft'
+   - 'ananassaft'
+ 'rhabarber-smoothie'
+  page: 29
+  i:
+   - 'rhabarber'
+   - 'apfelsaft'
+   - 'apfel'
+   - 'banane'
+   - 'erbeere'
+   - 'ahornsirup'
+ 'cranberry-smoothie'
+  page: 29
+  i:
+   - 'apfel'
+   - 'weintraube'
+   - 'cranberrie'
+ 'melonen-smoothie'
+  page: 29
+  i:
+   - 'wassermelone'
+   - 'cantraloupe'
+   - 'honigmelone'
+   - 'ananas'
+   - 'mango'
+   - 'erdbeere'
+   - 'ahornsirup'
+   - 'orangensaft'
+ 'banane-ananas-smoothie'
+  page: 30
+  i:
+   - 'ingwer'
+   - 'banane'
+   - 'orangensaft'
+   - 'ananassaft'
+   - 'kokussirup'
+ 'tomaten-smoothie'
+  page: 30
+  i:
+   - 'tomate'
+   - 'rote paprika'
+   - 'rocula'
+   - 'basilikumpesto'
+   - 'tomatensaft'
+   - 'salz'
+   - 'pfeffer'
+   - 'tabasco'
+ 'paprika-smoothie'
+  page: 30
+  i:
+   - 'schlangengurke'
+   - 'rote-paprika'
+   - 'frühlingszwiebel'
+   - 'tomatensaft'
+   - 'zitronensaft'
+   - 'worcestershire-sauce'
+   - 'salz'
+   - 'pfeffer'
+   - 'tabasco'
+ 'fruchtsmoothie'
+  page: 31
+  i:
+   - 'orange'
+   - 'banane'
+   - 'beeren'
+ 'rhabarber-erdbeer-smoothie'
+  page: 31
+  i:
+   - 'erdbeere'
+   - 'rhabarber'
+   - 'beeren'
+ 'möhren-smoothie'
+  page: 31
+  i:
+   - 'möhren'
+   - 'grapefruit'
+   - 'orange'
+   - 'banane'
+   - 'zitronensaft'
+   - 'limettensat'
+ 'wassermelonen-smoothie'
+  page: 32
+  i:
+   - 'limette'
+   - 'brauner zucker'
+   - 'wassermelone'
+   - 'zitronenmelisse'
+ 'kaki-smoothie'
+  page: 32
+  i:
+   - 'kaki'
+   - 'brine'
+   - 'grapefruitsaft'
+ 'papaya-smoothie'
+  page: 32
+  i:
+   - 'papaya'
+   - 'banane'
+   - 'guavensaft'
+   - 'limette'
+ 'mango-smoothie'
+  page: 33
+  i:
+   - 'limette'
+   - 'mango'
+ 'aprikosen-smoothie'
+  page: 33
+  i:
+   - 'aprikose'
+   - 'birne'
+   - 'banane'
+   - 'aprikosensaft'
+ 'birnen-smoothie'
+  page: 33
+  i:
+   - 'zitrone'
+   - 'banane'
+ 'ananas-kokos-smoothie'
+  page: 34
+  i:
+   - 'ananas'
+   - 'kokusnussfleisch'
+   - 'goji-beere'
+   - 'kokuswasser'
+ 'granatapfel-himbeers-smoothie'
+  page: 34
+  i:
+   - 'himbeere'
+   - 'granatapfel'
+   - 'banane'
+   - 'birne'
+ 'pflaumen-haselnuss-smoothie'
+  page: 35
+  i:
+   - 'haselnuss'
+   - 'kakaobohnensplitter'
+   - 'goji-beere'
+   - 'brombeere'
+   - 'blaue pflaume'
+   - 'zimt'
+ 'mango-minze-smoothie'
+  page: 35
+  i:
+   - 'mango'
+   - 'erdbeere'
+   - 'minze'
+   - 'grapefruit'
+   - 'orange'
+ 'blaubeer-smoothie'
+  page: 36
+  i:
+   - 'leinsamen'
+   - 'sedentofu'
+   - 'blaubeere'
+   - 'banane'
+   - 'sojamilch'
+   - 'haselnussmus'
+ 'granatapfel-orangen-smoothie'
+  page: 36
+  i:
+   - 'chia-saamen'
+   - 'datteln'
+   - 'himbeeren'
+   - 'granatapfel'
+   - 'orange'
+   - 'kokuswasser'
+ 'maulbeeren-melonen-smoothie'
+  page: 37
+  i:
+   - 'cashewkerne'
+   - 'leinsamen'
+   - 'wassermelone'
+   - 'maulbeeren'
+ 'pfirsisch-avocado-smoothie'
+  page: 37
+  i:
+   - 'pfirsich'
+   - 'avocado'
+   - 'limette'
+   - 'chia-samen'
+   - 'kokuswasser'
+ 'green-velwet-smoothie'
+  page: 38
+  i:
+   - 'baby-spinat'
+   - 'apfel'
+   - 'kiwi'
+   - 'banane'
+   - 'goji-beere'
+   - 'limettensaft'
+   - 'agavendicksaft'
+ 'orangen-rote-beete-smoothie'
+  page: 38
+  i:
+   - 'orange'
+   - 'rote-beete'
+   - 'ingewer'
+   - 'banane'
+   - 'maqui pulver'
+ 'beeren-orangen-smoothie'
+  page: 39
+  i:
+   - 'sesamsaat'
+   - 'getrocknete aronja beeren'
+   - 'dattel'
+   - 'beeren'
+   - 'orange'
+ 'sandorn-aprikosensmoothie'
+  page: 39
+  i:
+   - 'banane'
+   - 'hanf-samen'
+   - 'sesampaste'
+   - 'reismilch'
+   - 'aprikosen'
+   - 'sandornsaft'
+ 'himbeer-avcado-smoothie'
+  page: 40
+  i:
+   - 'himbeeren'
+   - 'aronja beere'
+   - 'birne'
+   - 'apfel avocado '
+ 'cranberry-zimt-smoothie'
+  page: 40
+  i:
+   - 'cashewkerne'
+   - 'honigmelone'
+   - 'zimz'
+   - 'cranberry'
+ 'macadamie-brombeer-smoothie'
+  page: 41
+  i:
+   - 'marcadamienuss'
+   - 'hanfsamen'
+   - 'bombeere'
+   - 'banane'
+   - 'orange'
+ 'goji-feigen-smoothie'
+  page: 41
+  i:
+   - 'mandeln'
+   - 'banane'
+   - 'getrocknete goji birne'
+   - 'feige'
+   - 'birne'
+ 'holunderbeeren-kirsch-smoothie'
+  page: 42
+  i:
+   - 'krische'
+   - 'banane'
+   - 'macuipulver'
+   - 'birne'
+ 'goji-pfirsich-smoothie'
+  page: 43
+  i:
+   - 'kokuswasser'
+   - 'gerocknete goji beere'
+   - 'kokusnussfliesch'
+   - 'pfirsich'
+   - 'limette'
+   - 'minze'
+ 'sandorn-ananas-smoothie'
+  page: 44
+  i:
+   - 'hanfsamen'
+   - 'ananas'
+   - 'sandornsaft'
+   - 'birne'
+ 'maulbeere-kirsch-smoothie'
+  page: 44
+  i:
+   - 'getrocknete maulbeere'
+   - 'banane'
+   - 'krirsche'
+ 'blaubeer-aprikosen-smoothie'
+  page: 45
+  i:
+   - 'leinsamen'
+   - 'blaubeere'
+   - 'maquipulver'
+   - 'aprikosen'
+ 'mango-papaya-smoothie'
+  page: 45
+  i:
+   - 'mango'
+   - 'papaya'
+   - 'seidentofu'
+   - 'chiasamen'
+   - 'limtte'
+   - 'kokuswasser'
+ 'hanf-smoothie'
+  page: 46
+  i:
+   - 'datteln'
+   - 'blaubeere'
+   - 'hanfsaaen'
+   - 'gemahlnene vanille'
+   - 'zimtpulver'
+ 'pink-starter-smoothie'
+  page: 46
+  i:
+   - 'blaubeere'
+   - 'erdbeere'
+   - 'minze'
+   - 'haferflocken'
+   - 'madelmilch'
+ 'cashew-milch-smoothie'
+  page: 47
+  i:
+   - 'chshewkerne'
+   - 'kokusmus'
+   - 'pfirsich'
+   - 'limette'
+   - 'hagebuttenpulver'
+   - 'zimt'
+ 'kokusmus-pflumen-smoothie'
+  page: 47
+  i:
+   - 'walnuss'
+   - 'pflaume'
+   - 'minze'
+   - 'kokusmus'
+   - 'kokuswasser'
+   - 'zitrone'
+ 'apfel-möhren-smoothie'
+  page: 48
+  i:
+   - 'grapefruit'
+   - 'apfel'
+   - 'möhrensaft'
+   - 'apfelsaft'
+   - 'ahornsirup'
+   - 'haferschmelzflocken'
+   - 'zimt'
+ 'rote-beete-smoothie'
+  page: 48
+  i:
+   - 'rote beete'
+   - 'joghurt'
+   - 'sandorn neckter'
+   - 'orangensaft'
+   - 'orange'
+ 'beerentraum-smoothie'
+  page: 48
+  i:
+   - 'blaubeere'
+   - 'himbeere'
+   - 'brombeere'
+   - 'banane'
+   - 'jighurt'
+   - 'haferflocken'
+   - 'honig'
+   - 'milch'
+ 'frühstücks-smoothie'
+  page: 49
+  i:
+   - 'haferflocken'
+   - 'haselnusskerne'
+   - 'leinsamen'
+   - 'naturjoghurt'
+   - 'milch'
+   - 'salz'
+   - 'beeren'
+ 'erdbeer-kokus-smoothie'
+  page: 49
+  i:
+   - 'erdbeeren'
+   - 'orangen'
+   - 'limettensaft'
+   - 'kokusmilch'
+ 'mango-kokus-smoothie'
+  page: 49
+  i:
+   - 'mangi'
+   - 'limette'
+   - 'tahin'
+   - 'kokuswasser'
+ 'grapefruit-smoothie'
+  page: 50
+  i:
+   - 'erdbeere'
+   - 'grapefruit'
+   - 'banane'
+   - 'jighurt'
+   - 'haferflocken'
+   - 'erdbeersirup'
+ 'himbeer-smoothie'
+  page: 50
+  i:
+   - 'aprikosen'
+   - 'vanilleschote'
+   - 'kefir'
+   - 'himbeere'
+   - 'milch'
+ 'erdbeer-smoothie'
+  page: 51
+  i:
+   - 'erdbeere'
+   - 'cantaloupemelone'
+   - 'honigmelone'
+   - 'joghurt'
+   - 'milch'
+ 'ananas-smoothie'
+  page: 51
+  i:
+   - 'ananas'
+   - 'buttermilch'
+   - 'vanillezucker'
+   - 'honig'
+   - 'ananassaft'
+   - 'minze'
+ 'kokusfett-birnen-smoothie'
+  page: 52
+  i:
+   - 'mandel'
+   - 'goji beere'
+   - 'banane'
+   - 'zimt'
+   - 'rohkost kokusöl'
+   - 'birne'
+ 'hanf-melonen-smoothie'
+  page: 52
+  i:
+   - 'hanfsaat'
+   - 'kakaobohnensplitter'
+   - 'kokusmus'
+   - 'galiamelone'
+   - 'banane'
+ 'eier-kokusnuss-smoothie'
+  page: 53
+  i:
+   - 'hanfsaat'
+   - 'dattel'
+   - 'eier'
+   - 'kokusmus'
+   - 'banane'
+   - 'apfel'
+ 'nuss-saaten-michung-smoothie'
+  page: 53
+  i:
+   - 'haselnüsse'
+   - 'sonnenblumenkerne'
+   - 'hanfsamen'
+   - 'leinsamen'
+   - 'maulbeeren'
+   - 'papaya'
+   - 'zitrone'
+ 'granatapfel-smoothie'
+  page: 54
+  i:
+   - 'granatapfel'
+   - 'blaubeere'
+   - 'joghurt'
+   - 'honig'
+   - 'milch'
+ 'buttermilch-smoothe'
+  page: 54
+  i:
+   - 'rote chillischote'
+   - 'kardamonkapseln'
+   - 'banne'
+   - 'buttermilch'
+   - 'sandornsirup'
+   - 'phüsales'
+ 'sunshine-smoothie'
+  page: 54
+  i:
+   - 'banane'
+   - 'birne'
+   - 'weizenflocken'
+   - 'joghurt'
+   - 'milch'
+   - 'sandornnecktar'
+   - 'erdnussbutter'
+   - 'orange'
+ 'johannisbeer-smoothie'
+  page: 55
+  i:
+   - 'banane'
+   - 'johannisbeere'
+   - 'blutorange'
+   - 'milch'
+   - 'sojamilch'
+ 'avocado-smoothie'
+  page: 55
+  i:
+   - 'avocado'
+   - 'zitronensaft'
+   - 'meis'
+   - 'paprika'
+   - 'magerquark'
+   - 'sonnenblumenkerne'
+   - 'salzsauce'
+   - 'sojasauce'
+ 'spinat-smoothie'
+  page: 55
+  i:
+   - 'blattspinat'
+   - 'tomate'
+   - 'joghurt'
+   - 'thymianblatt'
+   - 'salz'
+   - 'pfeffer'
+   - 'zitronensaft'
+   - 'zocker'
+   - 'tomaten'
